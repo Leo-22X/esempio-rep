@@ -1,1 +1,2 @@
-import numpy
+import nump
+echo "hello"y
