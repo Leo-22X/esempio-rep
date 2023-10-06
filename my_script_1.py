@@ -1,2 +1,2 @@
 import nump
-echo "hello"y
+import scipy
