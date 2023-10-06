@@ -1,2 +1,3 @@
 import nump
-import scipy
+import healpy
+import matplotlib
